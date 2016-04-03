@@ -1,0 +1,20 @@
+body {
+  background-color: #434343;
+  margin: 0;
+  padding: 25px;
+}
+
+/* Set a size for our map container, the Google Map will take up 100% of this container */
+#map {
+  width: 950px;
+  height: 600px;
+}
+
+#controlPanel input, #controlPanel button {
+  background: #fff;
+  border: 1px solid #999;
+  border-radius: 6px;
+  width: 150px;
+  line-height: 25px;
+  margin-bottom: 25px;
+}
